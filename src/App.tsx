@@ -1,6 +1,6 @@
-import "./styles/App.css";
 import Header from "./components/Header";
 import Intro from "./pages/Intro";
+import './styles/main.scss';
 
 function App() {
   return (
